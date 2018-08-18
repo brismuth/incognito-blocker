@@ -1,7 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Incognito Tab Blocker",
-  "short_name": "Tab Blocker",
+  "name": "Incognito Blocker",
   "description": "Blocks incognito tabs.",
   "version": "1.0",
   "background": {
