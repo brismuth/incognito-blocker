@@ -1,9 +1,18 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Incognito Blocker",
   "description": "Blocks incognito tabs.",
-  "version": "1.0",
+  "version": "1.1",
+
+  "icons": { "48": "icon48.png",
+             "128": "icon.png" },
+
+    "action": {
+    "default_title": "Incognito Blocker",
+    "default_icon": "icon.png"
+  },
+
   "background": {
-    "scripts": ["background.js"]
+    "service_worker": "background.js"  
   }
 }

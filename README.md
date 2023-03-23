@@ -1,5 +1,9 @@
 # Incognito Tab Blocker
-A chrome extension that blocks incognito tabs. Must be allowed to run in incognito mode.
+A chrome extension that blocks incognito tabs.
+
+It must be allowed to run in incognito mode to work. 
+
+To allow it to run in incognito, go to chrome://extensions in your browser, click "Details" on Incognito Blocker, and toggle on the "Allow in Incognito" setting.
 
 This extension does not provide parental controls or security as it can be easily disabled.
 
