@@ -3,12 +3,17 @@ A chrome extension that blocks incognito tabs.
 
 It must be allowed to run in incognito mode to work. 
 
-To allow it to run in incognito, go to chrome://extensions in your browser, click "Details" on Incognito Blocker, and toggle on the "Allow in Incognito" setting.
-
-This extension does not provide parental controls or security as it can be easily disabled.
-
 ### Install it
 https://chrome.google.com/webstore/detail/incognito-blocker/adegbkmimffpmlcdkjbadjjeiaacflap
+
+### Allow it to run in incognito
+1. Go to chrome://extensions in your browser, and click "Details" on Incognito Blocker.
+
+![Incognito Blocker Tile](images/Incognito%20Blocker%20Tile.png?raw=true "Incognito Blocker Tile")
+
+2. Toggle on the "Allow in Incognito" setting.
+
+![Allow in Incognito Toggle](images/Allow%20in%20Incognito.png?raw=true "Allow in Incognito Toggle")
 
 ### Install it from source
 You can easily install this from source by:
